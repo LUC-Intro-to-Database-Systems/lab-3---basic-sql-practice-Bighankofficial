@@ -37,6 +37,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 3.  Write the SQL command to display all policies that have a policy type of 'Home'.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/3.PNG" width="300" alt="output query 3"/>
+- Deliverable 2.3 Output
+- ![image](https://user-images.githubusercontent.com/77816985/204632323-3a330a3a-b848-465a-a14b-0dfc910ef70e.png)
+
 4.  Write the SQL command to display all columns for policies that have yearly terms
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/4.PNG" width="300" alt="output query 4"/>
 5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
