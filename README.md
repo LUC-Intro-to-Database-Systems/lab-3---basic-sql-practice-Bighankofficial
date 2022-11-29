@@ -47,6 +47,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/5.PNG" width="300" alt="output query 5"/>
+- Deliverable 2.5 Output
+- ![image](https://user-images.githubusercontent.com/77816985/204643400-3254a3bf-5137-40e4-bf67-8f7d40aaca39.png)
+
 6.  Write the SQL command that calculates the average age of all clients
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/6.PNG" width="90" alt="output query 6"/>
 7.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
