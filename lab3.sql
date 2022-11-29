@@ -45,3 +45,8 @@ VALUES
      /* Deliverable 2.4 Write the SQL command to display all columns for policies that have yearly terms */
     SELECT * FROM policy
     WHERE policyTerm = 'yearly';
+    
+    /* Deliverable 2.5 Write the SQL command that displays the client name, address, and age sorted by age in descending order */
+    SELECT client_name, client_address, client_age
+    FROM client
+    Order by (client_age) desc
