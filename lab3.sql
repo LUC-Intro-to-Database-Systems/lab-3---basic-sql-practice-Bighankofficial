@@ -59,3 +59,7 @@ VALUES
     SELECT client_name, client_age
     FROM client
     WHERE client_age BETWEEN 22 and 40
+    
+     /* Deliverable 2.8 Write the SQL command that lists all home policies that have a policy limit under $250,000 */
+    SELECT * FROM policy
+    WHERE policyLimits BETWEEN 0 and 250000 AND policyType = 'home';
