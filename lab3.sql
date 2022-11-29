@@ -69,3 +69,9 @@ VALUES
     FROM client
     WHERE client_address = '698 Featherstone'
     ORDER BY (client_age) ASC
+    
+    /* Deliverable 2.10 Write the SQL command that lists the name, address, and age of clients who are age 35 and above and whose address contains the number 8 */
+    SELECT client_name, client_address, client_age
+    FROM client
+    WHERE client_age > 35
+    AND client_address LIKE '%8%';
