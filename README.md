@@ -82,6 +82,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 12.  Write the SQL command that returns the policy type and the total count of policies by type
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/12.PNG" width="170" alt="output query 12"/>
+- Deliverable 12 Outcome
+- ![image](https://user-images.githubusercontent.com/77816985/204672663-08c34b7f-9a84-4a1a-be68-2a69a3b0d2f2.png)
+
 13.  Write the SQL command that returns the youngest and oldest client
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="output query 13"/>
 14.  Write the SQL command that lists all clients that have a home insurance policy
