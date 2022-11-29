@@ -30,7 +30,8 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 1.  Write the SQL command to list all clients and all the columns pertaining to a client.  The intended output is below.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/1.PNG" width="350" alt="output query 1"/>
 - Deliverable 2.1 Output
-- (https://user-images.githubusercontent.com/77816985/204615817-e7a15906-2335-4483-8e71-048c055d63b8.png)
+- ![image](https://user-images.githubusercontent.com/77816985/204616525-3701ded5-fa25-449c-9a2f-021045f0911d.png)
+
 
 2.  Write the SQL command to change client Chris Isaac to Chris Pearson.  No output for this command
 
