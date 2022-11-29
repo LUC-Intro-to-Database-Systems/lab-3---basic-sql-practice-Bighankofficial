@@ -75,3 +75,7 @@ VALUES
     FROM client
     WHERE client_age > 35
     AND client_address LIKE '%8%';
+    
+    /* Deliverable 2.11 Write the SQL command that returns the total # of policies offered */
+    SELECT COUNT(*) AS 'Total Count'
+    FROM policy;
