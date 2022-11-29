@@ -67,6 +67,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 9.  Write the SQL  command that lists the client's name and address for all addresses that contain 'Featherstone' and order by age in ascending order.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/9.PNG" width="200" alt="output query 9"/>
+- Deliverable 9 Outcome
+- ![image](https://user-images.githubusercontent.com/77816985/204666092-9c9918eb-325f-414f-b804-57571a1839fc.png)
+
 10.  Write the SQL command that lists the name, address, and age of clients who are age 35 and above and whose address contains the number 8
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/10.PNG" width="300" alt="output query 10"/>
 11.  Write the SQL command that returns the total # of policies offered
