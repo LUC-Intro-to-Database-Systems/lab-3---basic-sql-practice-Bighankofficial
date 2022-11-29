@@ -57,6 +57,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 7.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/7.PNG" width="180" alt="output query 7"/>
+- Deliverable 2.7 Output
+- ![image](https://user-images.githubusercontent.com/77816985/204645300-2647812d-d0d4-44e6-84cc-dcef723dcad2.png)
+
 8.  Write the SQL command that lists all home policies that have a policy limit under $250,000.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/8.PNG" width="270" alt="output query 8"/>
 9.  Write the SQL  command that lists the client's name and address for all addresses that contain 'Featherstone' and order by age in ascending order.
