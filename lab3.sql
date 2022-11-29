@@ -22,3 +22,22 @@ VALUES
     UPDATE client
     SET client_name = 'Chris Pearson'
     WHERE clientID = 5;
+
+  /* Deliverable 2.3 Write the SQL command to display all policies that have a policy type of 'Home'. */
+    INSERT INTO policy (policyID, policyType, policyTerm, policyLimits)
+    VALUES
+	(1,	'Home',	'yearly', '$100,000'),
+	(2,	'Home',	'yearly', '$250,000'),
+	(3,	'Home',	'yearly', '$500,000'),
+	(4,	'Home',	'yearly', '$1,000,000'),
+	(5,	'Home',	'6-month', '$100,000'),
+	(6,	'Home',	'6-month', '$250,000'),
+	(7,	'Home',	'6-month', '$500,000'),
+	(8,	'Home',	'6-month', '$1,000,000'),
+	(9,	'Car',	'yearly', '$60,000'),
+	(10, 'Car',	'yearly', '$120,000'),
+	(11, 'Car',	'6-month', '$60,000'),
+	(12, 'Car',	'6-month', '$120,000');
+    
+    SELECT * FROM policy
+    WHERE policyType = 'home';
