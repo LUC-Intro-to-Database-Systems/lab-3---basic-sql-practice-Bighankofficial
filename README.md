@@ -72,6 +72,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 10.  Write the SQL command that lists the name, address, and age of clients who are age 35 and above and whose address contains the number 8
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/10.PNG" width="300" alt="output query 10"/>
+- Deliverable 10 Outcome
+- ![image](https://user-images.githubusercontent.com/77816985/204669593-4fba107a-b296-4995-855f-65ba92937cdd.png)
+
 11.  Write the SQL command that returns the total # of policies offered
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/11.PNG" width="80" alt="output query 11"/>
 12.  Write the SQL command that returns the policy type and the total count of policies by type
