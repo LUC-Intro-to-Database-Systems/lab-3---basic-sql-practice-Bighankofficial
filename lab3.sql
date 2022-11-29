@@ -63,3 +63,9 @@ VALUES
      /* Deliverable 2.8 Write the SQL command that lists all home policies that have a policy limit under $250,000 */
     SELECT * FROM policy
     WHERE policyLimits BETWEEN 0 and 250000 AND policyType = 'home';
+    
+    /* Deliverable 2.9 Write the SQL command that lists the client's name and address for all addresses that contain 'Featherstone' and order by age in ascending order. */
+    SELECT client_name, client_address
+    FROM client
+    WHERE client_address = '698 Featherstone'
+    ORDER BY (client_age) ASC
