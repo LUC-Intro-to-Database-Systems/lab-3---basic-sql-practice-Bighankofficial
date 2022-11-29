@@ -1,1 +1,1 @@
-
+--Deliverable 2.1 Write the SQL command to list all clients and all the columns pertaining to a client.--
