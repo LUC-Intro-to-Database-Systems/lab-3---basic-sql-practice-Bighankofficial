@@ -50,3 +50,7 @@ VALUES
     SELECT client_name, client_address, client_age
     FROM client
     Order by (client_age) desc
+    
+    /* Deliverable 2.6 Write the SQL command that calculates the average age of all clients */
+    SELECT avg(client_age)
+    FROM client
