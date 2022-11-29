@@ -54,3 +54,8 @@ VALUES
     /* Deliverable 2.6 Write the SQL command that calculates the average age of all clients */
     SELECT avg(client_age)
     FROM client
+    
+    /* Deliverable 2.7 Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40 */
+    SELECT client_name, client_age
+    FROM client
+    WHERE client_age BETWEEN 22 and 40
