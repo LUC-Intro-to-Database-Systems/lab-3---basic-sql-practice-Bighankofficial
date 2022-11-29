@@ -42,6 +42,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 4.  Write the SQL command to display all columns for policies that have yearly terms
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/4.PNG" width="300" alt="output query 4"/>
+- Deliverable 2.4 Output
+- ![image](https://user-images.githubusercontent.com/77816985/204633399-22628364-10d9-4981-bfa2-cda6d7776ed4.png)
+
 5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/5.PNG" width="300" alt="output query 5"/>
 6.  Write the SQL command that calculates the average age of all clients
