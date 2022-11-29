@@ -79,3 +79,8 @@ VALUES
     /* Deliverable 2.11 Write the SQL command that returns the total # of policies offered */
     SELECT COUNT(*) AS 'Total Count'
     FROM policy;
+    
+    /* Deliverable 2.12 Write the SQL command that returns the policy type and the total count of policies by type */
+    SELECT policytype, COUNT(policyType) as 'Count of Policies'
+    FROM policy
+    GROUP BY policyType;
