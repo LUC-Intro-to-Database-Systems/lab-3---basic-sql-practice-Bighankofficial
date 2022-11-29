@@ -17,3 +17,8 @@ VALUES
 	(14, 'Cheryl Pearson',	'228 e, 149th st.',	67);
     
     SELECT * FROM client;
+
+    /* Deliverable 2.2 Write the SQL command to change client Chris Isaac to Chris Pearson. No output for this command */
+    UPDATE client
+    SET client_name = 'Chris Pearson'
+    WHERE clientID = 5;
