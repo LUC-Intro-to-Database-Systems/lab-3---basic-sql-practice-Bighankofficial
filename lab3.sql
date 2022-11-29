@@ -41,3 +41,7 @@ VALUES
     
     SELECT * FROM policy
     WHERE policyType = 'home';
+    
+     /* Deliverable 2.4 Write the SQL command to display all columns for policies that have yearly terms */
+    SELECT * FROM policy
+    WHERE policyTerm = 'yearly';
