@@ -84,3 +84,7 @@ VALUES
     SELECT policytype, COUNT(policyType) as 'Count of Policies'
     FROM policy
     GROUP BY policyType;
+    
+    /* Deliverable 2.13 Write the SQL command that returns the youngest and oldest client */
+   SELECT MIN(client_age) as 'Youngest Client',  MAX(client_age) as 'Oldest Client'
+   FROM client;
