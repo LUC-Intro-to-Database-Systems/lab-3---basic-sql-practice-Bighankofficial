@@ -104,6 +104,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 ### Extra Credit (2 Points)
 List all clients along with their respective policies.<br>
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/ec.PNG" width="550" alt="output query Extra credit"/>
+- Deliverable extra credit outcome
+- ![image](https://user-images.githubusercontent.com/77816985/204875064-59ec04b3-18f3-4063-860e-f4e77738a435.png)
+
 
 
 
