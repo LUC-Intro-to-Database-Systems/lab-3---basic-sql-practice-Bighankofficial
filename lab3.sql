@@ -88,3 +88,10 @@ VALUES
     /* Deliverable 2.13 Write the SQL command that returns the youngest and oldest client */
    SELECT MIN(client_age) as 'Youngest Client',  MAX(client_age) as 'Oldest Client'
    FROM client;
+   
+   /* Deliverable 2.14 Write the SQL command that lists all clients that have a home insurance policy */
+   SELECT *
+   FROM client
+   INNER JOIN policy
+   ON client.clientID = policy.policyID
+   WHERE policyType = 'home';
