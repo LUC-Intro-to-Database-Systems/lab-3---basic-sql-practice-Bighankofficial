@@ -95,3 +95,10 @@ VALUES
    INNER JOIN policy
    ON client.clientID = policy.policyID
    WHERE policyType = 'home';
+   
+    /* Deliverable 2.15 Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2 */
+   SELECT *
+   FROM client
+   INNER JOIN policy
+   ON client.clientID = policy.policyID
+   WHERE client.clientID = 2;
