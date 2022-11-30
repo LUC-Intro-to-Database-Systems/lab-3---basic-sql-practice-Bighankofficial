@@ -87,6 +87,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 13.  Write the SQL command that returns the youngest and oldest client
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="output query 13"/>
+- Deliverable 13 Output
+- ![image](https://user-images.githubusercontent.com/77816985/204696101-a87cdfba-728a-413a-9bd9-8667b9b9c44c.png)
+
 14.  Write the SQL command that lists all clients that have a home insurance policy
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/14.PNG" width="450" alt="output query 14"/>
 15.  Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2
