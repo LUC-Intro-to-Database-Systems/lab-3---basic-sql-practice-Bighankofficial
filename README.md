@@ -92,6 +92,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 14.  Write the SQL command that lists all clients that have a home insurance policy
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/14.PNG" width="450" alt="output query 14"/>
+- Deliverable 14 Output
+- ![image](https://user-images.githubusercontent.com/77816985/204866684-4182aa37-6ea5-4bf2-ad79-bffa36036bfb.png)
+
 15.  Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/15.PNG" width="450" alt="output query 15"/>
 
