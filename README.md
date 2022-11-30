@@ -97,6 +97,9 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 15.  Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/15.PNG" width="450" alt="output query 15"/>
+- Deliverable 15 Outcome
+- ![image](https://user-images.githubusercontent.com/77816985/204873975-108b62fe-ebe5-407f-81b6-cc825a82c78e.png)
+
 
 ### Extra Credit (2 Points)
 List all clients along with their respective policies.<br>
